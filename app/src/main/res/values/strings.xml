@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">YuKenVerter</string>
+
+    <string-array name="measurement">
+        <item>Click to select a category:</item>
+        <item>Pressure</item>
+        <item>Length</item>
+        <item>Velocity</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="nothing">
+        <item>Please first select a category</item>
+    </string-array>
+
+    <string-array name="pressure_units">
+        <item>Click to select a unit:</item>
+        <item>Pa</item>
+        <item>kPa</item>
+        <item>mmHg</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Click to select a unit:</item>
+        <item>m</item>
+        <item>inch</item>
+        <item>foot</item>
+    </string-array>
+
+    <string-array name="velocity_units">
+        <item>Click to select a unit:</item>
+        <item>m/s</item>
+        <item>km/h</item>
+        <item>mi/h</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Click to select a unit:</item>
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
